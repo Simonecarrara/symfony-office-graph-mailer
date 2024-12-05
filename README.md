@@ -14,7 +14,7 @@ Provides integration between the `Symfony Mailer` and `Office365 Graph API`.
 
 #### 1 add via composer
 ```bash
-composer require vitrus/symfony-office-graph-mailer
+composer require Simonecarrara/symfony-office-graph-mailer
 ```
 
 #### 2 Tag the transport factory in your `services.yaml`
